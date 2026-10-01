@@ -32,8 +32,8 @@ Aplikasi web **Bank Sampah** berbasis **Laravel** dengan sistem autentikasi & ot
 ### 1. Clone repository
 
 ```bash
-git clone <URL-REPO-INI>
-cd banksampah
+git clone https://github.com/PutraEkaJayaSukarta/BankSampah.git
+cd BankSampah
 ```
 
 ### 2. Instal dependensi PHP
